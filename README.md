@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Ha Tuong Vy. Currently, I am a third-year Information Technology student at Saigon University, majoring in Software Engineering. Currently, I am gradually improving and expanding my knowledge in programming, software development, and problem-solving skills. I have participated in several small academic projects and am seeking more opportunities to apply the knowledge I have learned in practice, aiming to develop myself further in the technology field.
+Hello, my name is Ha Tuong Vy. I am a third-year Information Technology student at Saigon University, majoring in Software Engineering. Currently, I am gradually improving and expanding my knowledge in programming, software development, and problem-solving skills. I have participated in several small academic projects and am seeking more opportunities to apply the knowledge I have learned in practice, aiming to develop myself further in the technology field.
 
 
 # 💻 Tech Stack:
